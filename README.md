@@ -2,4 +2,4 @@
 
 this is my first Github repo
 <br>
-This side author Zuhaib khan
+This side author Zuhaib tushar
